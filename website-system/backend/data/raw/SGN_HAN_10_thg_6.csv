@@ -1,0 +1,192 @@
+﻿id,brand,price,start_time,start_day,end_time,end_day,trip_time,take_place,destination,hand_luggage,checked_baggage,crawl_date
+VU-794,Vietravel Airlines,1.717.410 VND,22:50,10 thg 6,01:00,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+QH-204,Bamboo Airways,1.742.400 VND,07:10,10 thg 6,09:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+QH-280,Bamboo Airways,1.742.400 VND,21:10,10 thg 6,23:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+QH-282,Bamboo Airways,1.742.400 VND,23:45,10 thg 6,01:55,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VJ-120,VietJet Air,1.756.412 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-156,VietJet Air,1.756.412 VND,06:50,10 thg 6,09:00,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-122,VietJet Air,1.756.412 VND,06:55,10 thg 6,09:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-148,VietJet Air,1.756.412 VND,16:15,10 thg 6,18:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-146,VietJet Air,1.756.412 VND,16:45,10 thg 6,18:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-194,VietJet Air,1.756.412 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-154,VietJet Air,1.756.412 VND,18:45,10 thg 6,20:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-150,VietJet Air,1.756.412 VND,20:20,10 thg 6,22:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-160,VietJet Air,1.756.412 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-164,VietJet Air,1.756.412 VND,22:10,10 thg 6,00:20,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-1128,VietJet Air,1.756.412 VND,22:15,10 thg 6,00:25,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-162,VietJet Air,1.756.412 VND,22:40,10 thg 6,00:50,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-158,VietJet Air,1.756.412 VND,20:40,10 thg 6,22:55,10 thg 6,2h 15m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-144,VietJet Air,1.762.731 VND,15:55,10 thg 6,18:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-194,VietJet Air,1.778.268 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-128,VietJet Air,1.904.140 VND,09:40,10 thg 6,11:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-126,VietJet Air,1.904.665 VND,07:30,10 thg 6,09:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-130,VietJet Air,1.904.665 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-134,VietJet Air,1.904.665 VND,11:20,10 thg 6,13:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-168,VietJet Air,1.904.665 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VU-750,Vietravel Airlines,1.921.584 VND,05:45,10 thg 6,07:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VU-780,Vietravel Airlines,1.921.584 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+QH-242,Bamboo Airways,1.934.460 VND,13:15,10 thg 6,15:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+9G-876,SUN PhuQuoc AIRWAYS,2.001.055 VND,20:10,10 thg 6,22:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-882,SUN PhuQuoc AIRWAYS,2.001.055 VND,21:25,10 thg 6,23:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-894,SUN PhuQuoc AIRWAYS,2.001.055 VND,23:30,10 thg 6,01:40,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+VJ-136,VietJet Air,2.027.905 VND,12:00,10 thg 6,14:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-198,VietJet Air,2.029.484 VND,10:30,10 thg 6,12:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VJ-140,VietJet Air,2.029.484 VND,14:10,10 thg 6,16:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VN-270,Vietnam Airlines,2.034.000 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VJ-138,VietJet Air,2.203.546 VND,13:05,10 thg 6,15:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 20 kg,07-06-2026
+VN-256,Vietnam Airlines,2.223.000 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-260,Vietnam Airlines,2.223.000 VND,21:00,10 thg 6,23:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-238,Vietnam Airlines,2.223.000 VND,21:30,10 thg 6,23:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-224,Vietnam Airlines,2.223.000 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-824,SUN PhuQuoc AIRWAYS,2.239.713 VND,09:25,10 thg 6,11:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-840,SUN PhuQuoc AIRWAYS,2.239.713 VND,12:25,10 thg 6,14:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-880,SUN PhuQuoc AIRWAYS,2.239.713 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-802,SUN PhuQuoc AIRWAYS,2.285.372 VND,05:15,10 thg 6,07:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-820,SUN PhuQuoc AIRWAYS,2.480.015 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-854,SUN PhuQuoc AIRWAYS,2.480.015 VND,15:30,10 thg 6,17:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+9G-868,SUN PhuQuoc AIRWAYS,2.480.015 VND,18:30,10 thg 6,20:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-6002,Vietnam Airlines,2.560.358 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 23 kg,07-06-2026
+VJ-120,VietJet Air,3.239.874 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-124,VietJet Air,3.239.874 VND,06:05,10 thg 6,08:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-156,VietJet Air,3.239.874 VND,06:50,10 thg 6,09:00,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-122,VietJet Air,3.239.874 VND,06:55,10 thg 6,09:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-126,VietJet Air,3.239.874 VND,07:30,10 thg 6,09:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-130,VietJet Air,3.239.874 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-128,VietJet Air,3.239.874 VND,09:40,10 thg 6,11:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-198,VietJet Air,3.239.874 VND,10:30,10 thg 6,12:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-134,VietJet Air,3.239.874 VND,11:20,10 thg 6,13:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-136,VietJet Air,3.239.874 VND,12:00,10 thg 6,14:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-138,VietJet Air,3.239.874 VND,13:05,10 thg 6,15:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-140,VietJet Air,3.239.874 VND,14:10,10 thg 6,16:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-144,VietJet Air,3.239.874 VND,15:55,10 thg 6,18:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-148,VietJet Air,3.239.874 VND,16:15,10 thg 6,18:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-146,VietJet Air,3.239.874 VND,16:45,10 thg 6,18:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-194,VietJet Air,3.239.874 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-194,VietJet Air,3.239.874 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-154,VietJet Air,3.239.874 VND,18:45,10 thg 6,20:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-150,VietJet Air,3.239.874 VND,20:20,10 thg 6,22:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-160,VietJet Air,3.239.874 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-164,VietJet Air,3.239.874 VND,22:10,10 thg 6,00:20,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-1128,VietJet Air,3.239.874 VND,22:15,10 thg 6,00:25,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-162,VietJet Air,3.239.874 VND,22:40,10 thg 6,00:50,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-168,VietJet Air,3.239.874 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+VJ-158,VietJet Air,3.239.874 VND,20:40,10 thg 6,22:55,10 thg 6,2h 15m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 10 kg,Hành lý 30 kg,07-06-2026
+9G-802,SUN PhuQuoc AIRWAYS,3.796.019 VND,05:15,10 thg 6,07:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+9G-824,SUN PhuQuoc AIRWAYS,3.796.019 VND,09:25,10 thg 6,11:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+9G-854,SUN PhuQuoc AIRWAYS,3.796.019 VND,15:30,10 thg 6,17:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+9G-868,SUN PhuQuoc AIRWAYS,3.796.019 VND,18:30,10 thg 6,20:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+9G-882,SUN PhuQuoc AIRWAYS,3.796.019 VND,21:25,10 thg 6,23:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+9G-894,SUN PhuQuoc AIRWAYS,3.796.019 VND,23:30,10 thg 6,01:40,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+VN-6002,Vietnam Airlines,4.013.000 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VN-256,Vietnam Airlines,4.013.000 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VN-260,Vietnam Airlines,4.013.000 VND,21:00,10 thg 6,23:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VN-238,Vietnam Airlines,4.013.000 VND,21:30,10 thg 6,23:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VN-224,Vietnam Airlines,4.013.000 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VN-270,Vietnam Airlines,4.013.000 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý 32 kg,07-06-2026
+VU-750,Vietravel Airlines,4.254.969 VND,05:45,10 thg 6,07:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 12 kg,Hành lý 0 kg,07-06-2026
+VU-780,Vietravel Airlines,4.254.969 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 12 kg,Hành lý 0 kg,07-06-2026
+VU-794,Vietravel Airlines,4.254.969 VND,22:50,10 thg 6,01:00,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 12 kg,Hành lý 0 kg,07-06-2026
+QH-280,Bamboo Airways,4.597.560 VND,21:10,10 thg 6,23:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 14 kg,Hành lý 40 kg,07-06-2026
+QH-282,Bamboo Airways,4.597.560 VND,23:45,10 thg 6,01:55,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 14 kg,Hành lý 40 kg,07-06-2026
+9G-840,SUN PhuQuoc AIRWAYS,4.734.653 VND,12:25,10 thg 6,14:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý 2 x 23 kg,07-06-2026
+VN-6002,Vietnam Airlines,4.769.000 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 18 kg,Hành lý 32 kg,07-06-2026
+VN-256,Vietnam Airlines,4.769.000 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 18 kg,Hành lý 32 kg,07-06-2026
+VN-260,Vietnam Airlines,4.769.000 VND,21:00,10 thg 6,23:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 18 kg,Hành lý 32 kg,07-06-2026
+VN-238,Vietnam Airlines,4.769.000 VND,21:30,10 thg 6,23:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 18 kg,Hành lý 32 kg,07-06-2026
+VN-224,Vietnam Airlines,4.769.000 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 18 kg,Hành lý 32 kg,07-06-2026
+
+VJ-120,VietJet Air,1.529.000 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-124,VietJet Air,1.529.000 VND,06:05,10 thg 6,08:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-156,VietJet Air,1.529.000 VND,06:50,10 thg 6,09:00,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-122,VietJet Air,1.529.000 VND,06:55,10 thg 6,09:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-126,VietJet Air,1.642.000 VND,07:30,10 thg 6,09:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-140,VietJet Air,1.642.000 VND,14:10,10 thg 6,16:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-146,VietJet Air,1.642.000 VND,16:45,10 thg 6,18:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-194,VietJet Air,1.642.000 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-152,VietJet Air,1.642.000 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-154,VietJet Air,1.642.000 VND,18:45,10 thg 6,20:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-150,VietJet Air,1.642.000 VND,20:20,10 thg 6,22:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-160,VietJet Air,1.642.000 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-164,VietJet Air,1.642.000 VND,22:10,10 thg 6,00:20,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-1128,VietJet Air,1.642.000 VND,22:15,10 thg 6,00:25,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-162,VietJet Air,1.642.000 VND,22:40,10 thg 6,00:50,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-128,VietJet Air,1.644.835 VND,09:40,10 thg 6,11:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-136,VietJet Air,1.644.835 VND,12:00,10 thg 6,14:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-138,VietJet Air,1.644.835 VND,13:05,10 thg 6,15:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-148,VietJet Air,1.644.835 VND,16:15,10 thg 6,18:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-158,VietJet Air,1.644.835 VND,20:40,10 thg 6,22:55,10 thg 6,2h 15m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-134,VietJet Air,1.718.296 VND,11:20,10 thg 6,13:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VU-780,Vietravel Airlines,1.722.027 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VU-794,Vietravel Airlines,1.722.027 VND,22:50,10 thg 6,01:00,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+QH-282,Bamboo Airways,1.742.400 VND,23:45,10 thg 6,01:55,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-198,VietJet Air,1.781.000 VND,10:30,10 thg 6,12:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-144,VietJet Air,1.781.000 VND,15:55,10 thg 6,18:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-882,SUN PhuQuoc AIRWAYS,1.906.650 VND,21:25,10 thg 6,23:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-880,SUN PhuQuoc AIRWAYS,1.906.650 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-894,SUN PhuQuoc AIRWAYS,1.906.650 VND,23:30,10 thg 6,01:40,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VN-6002,Vietnam Airlines,1.918.930 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VU-750,Vietravel Airlines,1.926.615 VND,05:45,10 thg 6,07:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+QH-204,Bamboo Airways,1.934.460 VND,07:10,10 thg 6,09:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+QH-242,Bamboo Airways,1.934.460 VND,13:15,10 thg 6,15:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+QH-280,Bamboo Airways,1.934.460 VND,21:10,10 thg 6,23:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-168,VietJet Air,1.950.000 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-876,SUN PhuQuoc AIRWAYS,2.015.516 VND,20:10,10 thg 6,22:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-820,SUN PhuQuoc AIRWAYS,2.142.151 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-854,SUN PhuQuoc AIRWAYS,2.142.151 VND,15:30,10 thg 6,17:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-868,SUN PhuQuoc AIRWAYS,2.142.151 VND,18:30,10 thg 6,20:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VN-270,Vietnam Airlines,2.152.214 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VJ-130,VietJet Air,2.280.705 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VN-256,Vietnam Airlines,2.358.642 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-260,Vietnam Airlines,2.358.642 VND,21:00,10 thg 6,23:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-238,Vietnam Airlines,2.358.642 VND,21:30,10 thg 6,23:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-224,Vietnam Airlines,2.358.642 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+9G-802,SUN PhuQuoc AIRWAYS,2.377.649 VND,05:15,10 thg 6,07:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-824,SUN PhuQuoc AIRWAYS,2.377.649 VND,09:25,10 thg 6,11:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-840,SUN PhuQuoc AIRWAYS,2.377.649 VND,12:25,10 thg 6,14:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+9G-880,SUN PhuQuoc AIRWAYS,1.424.610 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-882,SUN PhuQuoc AIRWAYS,1.441.553 VND,21:25,10 thg 6,23:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-894,SUN PhuQuoc AIRWAYS,1.441.553 VND,23:30,10 thg 6,01:40,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-120,VietJet Air,1.564.893 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-156,VietJet Air,1.564.893 VND,06:50,10 thg 6,09:00,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+QH-282,Bamboo Airways,1.571.130 VND,23:45,10 thg 6,01:55,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-124,VietJet Air,1.611.720 VND,06:05,10 thg 6,08:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-126,VietJet Air,1.678.177 VND,07:30,10 thg 6,09:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-148,VietJet Air,1.706.893 VND,16:15,10 thg 6,18:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-146,VietJet Air,1.706.893 VND,16:45,10 thg 6,18:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-194,VietJet Air,1.706.893 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-152,VietJet Air,1.706.893 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-154,VietJet Air,1.706.893 VND,18:45,10 thg 6,20:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-150,VietJet Air,1.706.893 VND,20:20,10 thg 6,22:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-160,VietJet Air,1.706.893 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-164,VietJet Air,1.706.893 VND,22:10,10 thg 6,00:20,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-1128,VietJet Air,1.706.893 VND,22:15,10 thg 6,00:25,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-162,VietJet Air,1.706.893 VND,22:40,10 thg 6,00:50,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-158,VietJet Air,1.706.893 VND,20:40,10 thg 6,22:55,10 thg 6,2h 15m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VU-780,Vietravel Airlines,1.810.900 VND,17:10,10 thg 6,19:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VU-794,Vietravel Airlines,1.810.900 VND,22:50,10 thg 6,01:00,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-130,VietJet Air,1.818.595 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-128,VietJet Air,1.836.510 VND,09:40,10 thg 6,11:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-198,VietJet Air,1.836.510 VND,10:30,10 thg 6,12:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-134,VietJet Air,1.836.510 VND,11:20,10 thg 6,13:30,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-136,VietJet Air,1.836.510 VND,12:00,10 thg 6,14:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-138,VietJet Air,1.836.510 VND,13:05,10 thg 6,15:15,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-140,VietJet Air,1.836.510 VND,14:10,10 thg 6,16:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-144,VietJet Air,1.836.510 VND,15:55,10 thg 6,18:05,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VJ-168,VietJet Air,1.836.510 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+QH-204,Bamboo Airways,1.934.460 VND,07:10,10 thg 6,09:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+QH-280,Bamboo Airways,1.934.460 VND,21:10,10 thg 6,23:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VU-750,Vietravel Airlines,2.019.850 VND,05:45,10 thg 6,07:55,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-820,SUN PhuQuoc AIRWAYS,2.023.056 VND,08:40,10 thg 6,10:50,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-876,SUN PhuQuoc AIRWAYS,2.038.928 VND,20:10,10 thg 6,22:20,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VN-6002,Vietnam Airlines,2.157.656 VND,05:00,10 thg 6,07:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+VN-270,Vietnam Airlines,2.203.000 VND,23:00,10 thg 6,01:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+9G-868,SUN PhuQuoc AIRWAYS,2.213.640 VND,18:30,10 thg 6,20:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-854,SUN PhuQuoc AIRWAYS,2.263.989 VND,15:30,10 thg 6,17:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-840,SUN PhuQuoc AIRWAYS,2.285.467 VND,12:25,10 thg 6,14:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+QH-242,Bamboo Airways,2.352.240 VND,13:15,10 thg 6,15:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+VN-256,Vietnam Airlines,2.417.000 VND,20:30,10 thg 6,22:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+VN-260,Vietnam Airlines,2.417.000 VND,21:00,10 thg 6,23:10,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+VN-238,Vietnam Airlines,2.417.000 VND,21:30,10 thg 6,23:40,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+VN-224,Vietnam Airlines,2.417.000 VND,22:00,10 thg 6,00:10,11 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026 
+9G-802,SUN PhuQuoc AIRWAYS,2.452.230 VND,05:15,10 thg 6,07:25,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 
+9G-824,SUN PhuQuoc AIRWAYS,2.452.230 VND,09:25,10 thg 6,11:35,10 thg 6,2h 10m,TP HCM (SGN),Hà Nội (HAN),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026 

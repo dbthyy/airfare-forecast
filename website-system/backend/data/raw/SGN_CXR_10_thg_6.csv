@@ -1,0 +1,31 @@
+﻿id,brand,price,start_time,start_day,end_time,end_day,trip_time,take_place,destination,hand_luggage,checked_baggage,crawl_date
+VJ-1602,VietJet Air,890.845 VND,10:50,10 thg 6,11:50,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VJ-600,VietJet Air,890.845 VND,14:35,10 thg 6,15:35,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VN-8346,Vietnam Airlines,1.330.870 VND,17:35,10 thg 6,19:00,10 thg 6,1h 25m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 23 kg,07-06-2026
+VN-1350,Vietnam Airlines,1.447.000 VND,20:10,10 thg 6,21:15,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-1342,Vietnam Airlines,1.552.000 VND,09:05,10 thg 6,10:10,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-7340,Vietnam Airlines,1.552.000 VND,12:30,10 thg 6,13:35,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-1344,Vietnam Airlines,1.771.684 VND,13:05,10 thg 6,14:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 23 kg,07-06-2026
+VJ-1602,VietJet Air,890.845 VND,10:50,10 thg 6,11:50,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VJ-600,VietJet Air,890.845 VND,14:35,10 thg 6,15:35,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý 0 kg,07-06-2026
+VN-8346,Vietnam Airlines,1.330.870 VND,17:35,10 thg 6,19:00,10 thg 6,1h 25m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 23 kg,07-06-2026
+VN-1350,Vietnam Airlines,1.447.000 VND,20:10,10 thg 6,21:15,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-1342,Vietnam Airlines,1.552.000 VND,09:05,10 thg 6,10:10,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-7340,Vietnam Airlines,1.552.000 VND,12:30,10 thg 6,13:35,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 1 x 23 kg,07-06-2026
+VN-1344,Vietnam Airlines,1.771.684 VND,13:05,10 thg 6,14:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý 23 kg,07-06-2026
+VJ-1602,VietJet Air,887.321 VND,10:50,10 thg 6,11:50,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VJ-600,VietJet Air,1.113.232 VND,14:35,10 thg 6,15:35,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,08-06-2026
+VN-8346,Vietnam Airlines,1.343.883 VND,17:35,10 thg 6,19:00,10 thg 6,1h 25m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-7340,Vietnam Airlines,1.521.874 VND,12:30,10 thg 6,13:35,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-1350,Vietnam Airlines,1.521.874 VND,20:10,10 thg 6,21:15,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-1340,Vietnam Airlines,1.591.385 VND,07:05,10 thg 6,08:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-1342,Vietnam Airlines,1.615.345 VND,09:05,10 thg 6,10:10,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VN-1344,Vietnam Airlines,1.759.371 VND,13:05,10 thg 6,14:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,08-06-2026
+VJ-1602,VietJet Air,921.285 VND,10:50,10 thg 6,11:50,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VJ-600,VietJet Air,1.152.000 VND,14:35,10 thg 6,15:35,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 7 kg,Hành lý xách tay 7 kg,09-06-2026
+VN-8346,Vietnam Airlines,1.348.600 VND,17:35,10 thg 6,19:00,10 thg 6,1h 25m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
+VN-7340,Vietnam Airlines,1.547.000 VND,12:30,10 thg 6,13:35,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
+VN-1350,Vietnam Airlines,1.547.000 VND,20:10,10 thg 6,21:15,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
+VN-1340,Vietnam Airlines,1.592.292 VND,07:05,10 thg 6,08:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
+VN-1342,Vietnam Airlines,1.635.000 VND,09:05,10 thg 6,10:10,10 thg 6,1h 5m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
+VN-1344,Vietnam Airlines,1.785.000 VND,13:05,10 thg 6,14:05,10 thg 6,1h 0m,TP HCM (SGN),Nha Trang (CXR),Hành lý xách tay 1 x 10 kg,Hành lý xách tay 1 x 10 kg,09-06-2026
