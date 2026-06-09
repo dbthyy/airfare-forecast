@@ -343,7 +343,7 @@ export default function App() {
     setFlights([]);
 
     try {
-      const res = await fetch("https://airfare-forecast.onrender.com/api/search", {
+      const res = await fetch("https://airfare-forecast.onrender.com/", {
         method:  "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
