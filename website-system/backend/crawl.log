@@ -608,3 +608,65 @@ max       3.000000
 2026-06-09 15:41:37,209 [INFO] days_left sau filter | shape=(43, 15) | min=1 max=3
 2026-06-09 15:41:37,234 [INFO] Preprocess xong | shape=(43, 18) | null=0
 2026-06-09 15:41:37,331 [INFO] 127.0.0.1 - - [09/Jun/2026 15:41:37] "POST /api/search HTTP/1.1" 200 -
+2026-06-09 17:33:08,114 [INFO] Model loaded: 17 routes
+2026-06-09 17:33:09,414 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.243:5000
+2026-06-09 17:33:09,414 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-09 17:34:04,857 [INFO] 127.0.0.1 - - [09/Jun/2026 17:34:04] "OPTIONS /api/search HTTP/1.1" 200 -
+2026-06-09 17:34:05,120 [INFO] [API /search] → https://www.traveloka.com/vi-vn/flight/fullsearch?ap=SGN.HAN&dt=10-06-2026.NA&ps=1.0.0&sc=ECONOMY
+2026-06-09 17:34:05,121 [INFO] Checking cache: D:\UIT\DO_AN\website-system\backend\data\raw\SGN_HAN_10_thg_6.csv
+2026-06-09 17:34:05,121 [INFO] Exists? True
+2026-06-09 17:34:05,121 [INFO] Đọc dữ liệu có sẵn: data\raw\SGN_HAN_10_thg_6.csv
+2026-06-09 17:34:05,130 [INFO] Đọc lịch sử: SGN_HAN_10_thg_6.csv (190 rows)
+2026-06-09 17:34:05,131 [INFO] Preprocess bắt đầu | shape=(142, 13)
+2026-06-09 17:34:05,217 [WARNING] 34 dòng có crawl_date không hợp lệ → thay bằng today (2026-06-09)
+2026-06-09 17:34:05,220 [INFO] days_left stats:
+count    142.000000
+mean       2.000000
+std        0.816497
+min        1.000000
+25%        1.000000
+50%        2.000000
+75%        3.000000
+max        3.000000
+2026-06-09 17:34:05,221 [INFO] days_left sau filter | shape=(142, 15) | min=1 max=3
+2026-06-09 17:34:05,262 [INFO] Preprocess xong | shape=(142, 18) | null=0
+2026-06-09 17:34:05,611 [INFO] 127.0.0.1 - - [09/Jun/2026 17:34:05] "POST /api/search HTTP/1.1" 200 -
+2026-06-09 19:38:01,737 [INFO] Model loaded: 17 routes
+2026-06-09 19:38:03,052 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.243:5000
+2026-06-09 19:38:03,052 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-09 19:38:26,892 [INFO] 127.0.0.1 - - [09/Jun/2026 19:38:26] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-09 19:38:27,036 [INFO] 127.0.0.1 - - [09/Jun/2026 19:38:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-09 19:38:29,371 [INFO] 127.0.0.1 - - [09/Jun/2026 19:38:29] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-09 19:39:15,755 [INFO] 127.0.0.1 - - [09/Jun/2026 19:39:15] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-09 19:39:36,759 [INFO] 127.0.0.1 - - [09/Jun/2026 19:39:36] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-09 19:46:54,743 [INFO] Model loaded: 17 routes
+2026-06-09 19:46:56,022 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.243:5000
+2026-06-09 19:46:56,022 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-09 19:47:16,528 [INFO] 127.0.0.1 - - [09/Jun/2026 19:47:16] "OPTIONS /api/search HTTP/1.1" 200 -
+2026-06-09 19:47:16,781 [INFO] [API /search] → https://www.traveloka.com/vi-vn/flight/fullsearch?ap=SGN.PQC&dt=10-06-2026.NA&ps=1.0.0&sc=ECONOMY
+2026-06-09 19:47:16,782 [INFO] Checking cache: D:\UIT\DO_AN\website-system\backend\data\raw\SGN_PQC_10_thg_6.csv
+2026-06-09 19:47:16,782 [INFO] Exists? True
+2026-06-09 19:47:16,782 [INFO] Đọc dữ liệu có sẵn: data\raw\SGN_PQC_10_thg_6.csv
+2026-06-09 19:47:16,805 [INFO] Đọc lịch sử: SGN_PQC_10_thg_6.csv (68 rows)
+2026-06-09 19:47:16,806 [INFO] Preprocess bắt đầu | shape=(43, 13)
+2026-06-09 19:47:16,840 [INFO] days_left stats:
+count    43.000000
+mean      2.000000
+std       0.816497
+min       1.000000
+25%       1.000000
+50%       2.000000
+75%       3.000000
+max       3.000000
+2026-06-09 19:47:16,842 [INFO] days_left sau filter | shape=(43, 15) | min=1 max=3
+2026-06-09 19:47:16,864 [INFO] Preprocess xong | shape=(43, 18) | null=0
+2026-06-09 19:47:16,967 [INFO] 127.0.0.1 - - [09/Jun/2026 19:47:16] "POST /api/search HTTP/1.1" 200 -
