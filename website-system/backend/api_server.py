@@ -471,7 +471,7 @@ app.json_provider_class = NumpyJSONProvider
 app.json = NumpyJSONProvider(app)
 CORS(app)
 # ── GET /api/health ───────────────────────────────────────────────────────────
-@app.route("/api/health", methods=["GET"])
+@app.route("/api/health", methods=["GET", "POST"])
 def health():
     return jsonify({
         "status":      "ok",
